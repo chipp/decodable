@@ -1,0 +1,19 @@
+{
+  "players": [
+    {
+      "first_name": "Antoine",
+      "last_name": "Griezmann",
+      "team": {
+        "name": "France"
+      }
+    },
+    {
+      "first_name": "Cristiano Ronaldo",
+      "last_name": "dos Santos Aveiro",
+      "display_name": "Cristiano Ronaldo",
+      "team": {
+        "name": "Portugal"
+      }
+    }
+  ]
+}

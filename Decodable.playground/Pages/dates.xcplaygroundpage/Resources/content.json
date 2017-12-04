@@ -1,0 +1,19 @@
+[
+  {
+    "firstName": "Antoine",
+    "lastName": "Griezmann",
+    "team": {
+      "name": "France"
+    },
+    "birthday": "21/03/1991"
+  },
+  {
+    "firstName": "Cristiano Ronaldo",
+    "lastName": "dos Santos Aveiro",
+    "displayName": "Cristiano Ronaldo",
+    "team": {
+      "name": "Portugal"
+    },
+    "birthday": "05/02/1985"
+  }
+]

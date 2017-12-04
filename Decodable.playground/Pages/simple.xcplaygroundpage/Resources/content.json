@@ -1,0 +1,17 @@
+[
+  {
+    "firstName": "Antoine",
+    "lastName": "Griezmann",
+    "team": {
+      "name": "France"
+    }
+  },
+  {
+    "firstName": "Cristiano Ronaldo",
+    "lastName": "dos Santos Aveiro",
+    "displayName": "Cristiano Ronaldo",
+    "team": {
+      "name": "Portugal"
+    }
+  }
+]
